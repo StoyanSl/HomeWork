@@ -1,0 +1,6 @@
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Print Part of the ASCII Table\bin\Debug\Print Part of the ASCII Table.exe.config
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Print Part of the ASCII Table\bin\Debug\Print Part of the ASCII Table.exe
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Print Part of the ASCII Table\bin\Debug\Print Part of the ASCII Table.pdb
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Print Part of the ASCII Table\obj\Debug\Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Print Part of the ASCII Table\obj\Debug\Print Part of the ASCII Table.exe
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Print Part of the ASCII Table\obj\Debug\Print Part of the ASCII Table.pdb

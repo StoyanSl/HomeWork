@@ -1,0 +1,7 @@
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Convert Speed Units\bin\Debug\Convert Speed Units.exe.config
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Convert Speed Units\bin\Debug\Convert Speed Units.exe
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Convert Speed Units\bin\Debug\Convert Speed Units.pdb
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Convert Speed Units\obj\Debug\Convert Speed Units.csprojResolveAssemblyReference.cache
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Convert Speed Units\obj\Debug\Convert Speed Units.csproj.CoreCompileInputs.cache
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Convert Speed Units\obj\Debug\Convert Speed Units.exe
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Convert Speed Units\obj\Debug\Convert Speed Units.pdb

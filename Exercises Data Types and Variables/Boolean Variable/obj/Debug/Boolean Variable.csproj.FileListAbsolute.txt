@@ -1,0 +1,6 @@
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Boolean Variable\bin\Debug\Boolean Variable.exe.config
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Boolean Variable\bin\Debug\Boolean Variable.exe
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Boolean Variable\bin\Debug\Boolean Variable.pdb
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Boolean Variable\obj\Debug\Boolean Variable.csproj.CoreCompileInputs.cache
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Boolean Variable\obj\Debug\Boolean Variable.exe
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Boolean Variable\obj\Debug\Boolean Variable.pdb

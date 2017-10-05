@@ -1,0 +1,6 @@
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Fast Prime Checker - Refactor\bin\Debug\Fast Prime Checker - Refactor.exe.config
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Fast Prime Checker - Refactor\bin\Debug\Fast Prime Checker - Refactor.exe
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Fast Prime Checker - Refactor\bin\Debug\Fast Prime Checker - Refactor.pdb
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Fast Prime Checker - Refactor\obj\Debug\Fast Prime Checker - Refactor.csproj.CoreCompileInputs.cache
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Fast Prime Checker - Refactor\obj\Debug\Fast Prime Checker - Refactor.exe
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Fast Prime Checker - Refactor\obj\Debug\Fast Prime Checker - Refactor.pdb

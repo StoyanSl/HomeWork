@@ -1,0 +1,6 @@
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Exchange Variable Values\bin\Debug\Exchange Variable Values.exe.config
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Exchange Variable Values\bin\Debug\Exchange Variable Values.exe
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Exchange Variable Values\bin\Debug\Exchange Variable Values.pdb
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Exchange Variable Values\obj\Debug\Exchange Variable Values.csproj.CoreCompileInputs.cache
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Exchange Variable Values\obj\Debug\Exchange Variable Values.exe
+C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Exchange Variable Values\obj\Debug\Exchange Variable Values.pdb
