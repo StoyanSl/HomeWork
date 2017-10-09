@@ -1,0 +1,7 @@
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\3th\bin\Debug\3th.exe.config
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\3th\bin\Debug\3th.exe
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\3th\bin\Debug\3th.pdb
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\3th\obj\Debug\3th.csprojResolveAssemblyReference.cache
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\3th\obj\Debug\3th.csproj.CoreCompileInputs.cache
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\3th\obj\Debug\3th.exe
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\3th\obj\Debug\3th.pdb

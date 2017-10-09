@@ -1,0 +1,6 @@
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\6th\bin\Debug\6th.exe.config
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\6th\bin\Debug\6th.exe
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\6th\bin\Debug\6th.pdb
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\6th\obj\Debug\6th.csproj.CoreCompileInputs.cache
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\6th\obj\Debug\6th.exe
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\6th\obj\Debug\6th.pdb

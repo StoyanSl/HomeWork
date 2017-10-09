@@ -1,0 +1,7 @@
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\15th\bin\Debug\15th.exe.config
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\15th\bin\Debug\15th.exe
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\15th\bin\Debug\15th.pdb
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\15th\obj\Debug\15th.csprojResolveAssemblyReference.cache
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\15th\obj\Debug\15th.csproj.CoreCompileInputs.cache
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\15th\obj\Debug\15th.exe
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\15th\obj\Debug\15th.pdb

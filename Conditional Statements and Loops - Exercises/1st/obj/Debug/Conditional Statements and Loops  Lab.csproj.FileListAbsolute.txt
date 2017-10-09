@@ -1,0 +1,7 @@
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\Conditional Statements and Loops  Lab\obj\Debug\Conditional Statements and Loops  Lab.csprojResolveAssemblyReference.cache
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\Conditional Statements and Loops  Lab\obj\Debug\Conditional Statements and Loops  Lab.csproj.CoreCompileInputs.cache
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\Conditional Statements and Loops  Lab\bin\Debug\Conditional Statements and Loops  Lab.exe.config
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\Conditional Statements and Loops  Lab\bin\Debug\Conditional Statements and Loops  Lab.exe
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\Conditional Statements and Loops  Lab\bin\Debug\Conditional Statements and Loops  Lab.pdb
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\Conditional Statements and Loops  Lab\obj\Debug\Conditional Statements and Loops  Lab.exe
+C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\Conditional Statements and Loops  Lab\obj\Debug\Conditional Statements and Loops  Lab.pdb
