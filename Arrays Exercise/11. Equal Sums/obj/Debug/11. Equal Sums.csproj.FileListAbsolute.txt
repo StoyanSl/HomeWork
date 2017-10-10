@@ -1,0 +1,7 @@
+C:\Users\StoyanSL\source\repos\Arrays Exercise\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe.config
+C:\Users\StoyanSL\source\repos\Arrays Exercise\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe
+C:\Users\StoyanSL\source\repos\Arrays Exercise\11. Equal Sums\bin\Debug\_11.Equal_Sums.pdb
+C:\Users\StoyanSL\source\repos\Arrays Exercise\11. Equal Sums\obj\Debug\11. Equal Sums.csprojResolveAssemblyReference.cache
+C:\Users\StoyanSL\source\repos\Arrays Exercise\11. Equal Sums\obj\Debug\11. Equal Sums.csproj.CoreCompileInputs.cache
+C:\Users\StoyanSL\source\repos\Arrays Exercise\11. Equal Sums\obj\Debug\_11.Equal_Sums.exe
+C:\Users\StoyanSL\source\repos\Arrays Exercise\11. Equal Sums\obj\Debug\_11.Equal_Sums.pdb
