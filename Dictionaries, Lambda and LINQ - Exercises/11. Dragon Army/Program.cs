@@ -5,10 +5,6 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-/* if (string.IsNullOrEmpty(test))
-           {
-               Console.WriteLine("Hvani me za huq");
-           }*/
 
 namespace _11.Dragon_Army
 {
