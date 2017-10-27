@@ -1,7 +1,0 @@
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Thea The Photographer\bin\Debug\Thea The Photographer.exe.config
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Thea The Photographer\bin\Debug\Thea The Photographer.exe
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Thea The Photographer\bin\Debug\Thea The Photographer.pdb
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Thea The Photographer\obj\Debug\Thea The Photographer.csprojResolveAssemblyReference.cache
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Thea The Photographer\obj\Debug\Thea The Photographer.csproj.CoreCompileInputs.cache
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Thea The Photographer\obj\Debug\Thea The Photographer.exe
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Thea The Photographer\obj\Debug\Thea The Photographer.pdb

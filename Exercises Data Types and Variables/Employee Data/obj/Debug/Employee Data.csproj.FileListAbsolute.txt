@@ -1,6 +1,0 @@
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Employee Data\bin\Debug\Employee Data.exe.config
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Employee Data\bin\Debug\Employee Data.exe
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Employee Data\bin\Debug\Employee Data.pdb
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Employee Data\obj\Debug\Employee Data.csproj.CoreCompileInputs.cache
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Employee Data\obj\Debug\Employee Data.exe
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Employee Data\obj\Debug\Employee Data.pdb

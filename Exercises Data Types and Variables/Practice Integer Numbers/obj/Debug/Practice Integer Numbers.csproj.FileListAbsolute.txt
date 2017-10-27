@@ -1,7 +1,0 @@
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Practice Integer Numbers\bin\Debug\Practice Integer Numbers.exe.config
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Practice Integer Numbers\bin\Debug\Practice Integer Numbers.exe
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Practice Integer Numbers\bin\Debug\Practice Integer Numbers.pdb
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Practice Integer Numbers\obj\Debug\Practice Integer Numbers.csprojResolveAssemblyReference.cache
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Practice Integer Numbers\obj\Debug\Practice Integer Numbers.csproj.CoreCompileInputs.cache
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Practice Integer Numbers\obj\Debug\Practice Integer Numbers.exe
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Practice Integer Numbers\obj\Debug\Practice Integer Numbers.pdb

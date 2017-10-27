@@ -1,7 +1,0 @@
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\5th\bin\Debug\5th.exe.config
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\5th\bin\Debug\5th.exe
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\5th\bin\Debug\5th.pdb
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\5th\obj\Debug\5th.csprojResolveAssemblyReference.cache
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\5th\obj\Debug\5th.csproj.CoreCompileInputs.cache
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\5th\obj\Debug\5th.exe
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\5th\obj\Debug\5th.pdb

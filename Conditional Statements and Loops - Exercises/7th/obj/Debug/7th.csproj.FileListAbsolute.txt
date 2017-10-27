@@ -1,7 +1,0 @@
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\7th\bin\Debug\7th.exe.config
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\7th\bin\Debug\7th.exe
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\7th\bin\Debug\7th.pdb
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\7th\obj\Debug\7th.csprojResolveAssemblyReference.cache
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\7th\obj\Debug\7th.csproj.CoreCompileInputs.cache
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\7th\obj\Debug\7th.exe
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\7th\obj\Debug\7th.pdb

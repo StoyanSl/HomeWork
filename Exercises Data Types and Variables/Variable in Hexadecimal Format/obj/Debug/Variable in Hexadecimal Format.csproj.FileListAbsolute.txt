@@ -1,7 +1,0 @@
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe.config
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.pdb
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.csproj.CoreCompileInputs.cache
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.exe
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.pdb

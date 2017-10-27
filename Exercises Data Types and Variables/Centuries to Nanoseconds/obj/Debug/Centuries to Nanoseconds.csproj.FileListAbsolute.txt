@@ -1,7 +1,0 @@
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.exe.config
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.exe
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.pdb
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Centuries to Nanoseconds\obj\Debug\Centuries to Nanoseconds.csprojResolveAssemblyReference.cache
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Centuries to Nanoseconds\obj\Debug\Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Centuries to Nanoseconds\obj\Debug\Centuries to Nanoseconds.exe
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Centuries to Nanoseconds\obj\Debug\Centuries to Nanoseconds.pdb

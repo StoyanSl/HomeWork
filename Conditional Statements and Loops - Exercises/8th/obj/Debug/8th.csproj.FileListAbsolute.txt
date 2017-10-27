@@ -1,7 +1,0 @@
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\8th\bin\Debug\8th.exe.config
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\8th\bin\Debug\8th.exe
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\8th\bin\Debug\8th.pdb
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\8th\obj\Debug\8th.csprojResolveAssemblyReference.cache
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\8th\obj\Debug\8th.csproj.CoreCompileInputs.cache
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\8th\obj\Debug\8th.exe
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\8th\obj\Debug\8th.pdb

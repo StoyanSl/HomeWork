@@ -1,7 +1,0 @@
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\12\bin\Debug\12.exe.config
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\12\bin\Debug\12.exe
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\12\bin\Debug\12.pdb
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\12\obj\Debug\12th.csprojResolveAssemblyReference.cache
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\12\obj\Debug\12th.csproj.CoreCompileInputs.cache
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\12\obj\Debug\12.exe
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\12\obj\Debug\12.pdb

@@ -1,6 +1,0 @@
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Strings and Objects\bin\Debug\Strings and Objects.exe.config
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Strings and Objects\bin\Debug\Strings and Objects.exe
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Strings and Objects\bin\Debug\Strings and Objects.pdb
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Strings and Objects\obj\Debug\Strings and Objects.csproj.CoreCompileInputs.cache
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Strings and Objects\obj\Debug\Strings and Objects.exe
-C:\Users\StoyanSL\source\repos\Exercises Data Types and Variables\Strings and Objects\obj\Debug\Strings and Objects.pdb

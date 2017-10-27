@@ -1,6 +1,0 @@
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\2nd\bin\Debug\2nd.exe.config
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\2nd\bin\Debug\2nd.exe
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\2nd\bin\Debug\2nd.pdb
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\2nd\obj\Debug\2nd.csproj.CoreCompileInputs.cache
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\2nd\obj\Debug\2nd.exe
-C:\Users\stiva\source\repos\Conditional Statements and Loops  Lab\2nd\obj\Debug\2nd.pdb
